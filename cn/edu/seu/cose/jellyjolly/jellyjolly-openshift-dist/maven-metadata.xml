@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.edu.seu.cose.jellyjolly</groupId>
+  <artifactId>jellyjolly-openshift-dist</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.BETA3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130125084839</lastUpdated>
+  </versioning>
+</metadata>

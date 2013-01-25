@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.edu.seu.cose.jellyjolly</groupId>
+  <artifactId>jellyjolly-openshift-dist</artifactId>
+  <version>1.0.BETA3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130125.084837</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130125084837</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0.BETA3-20130125.084837-1</value>
+        <updated>20130125084837</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.BETA3-20130125.084837-1</value>
+        <updated>20130125084837</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
