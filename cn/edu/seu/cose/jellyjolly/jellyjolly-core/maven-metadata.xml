@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.edu.seu.cose.jellyjolly</groupId>
+  <artifactId>jellyjolly-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.BETA3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130125083935</lastUpdated>
+  </versioning>
+</metadata>
