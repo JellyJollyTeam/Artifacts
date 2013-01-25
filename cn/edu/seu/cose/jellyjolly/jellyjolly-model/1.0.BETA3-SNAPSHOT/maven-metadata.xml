@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.edu.seu.cose.jellyjolly</groupId>
+  <artifactId>jellyjolly-model</artifactId>
+  <version>1.0.BETA3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130125.083235</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130125083235</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.BETA3-20130125.083235-1</value>
+        <updated>20130125083235</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.BETA3-20130125.083235-1</value>
+        <updated>20130125083235</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
