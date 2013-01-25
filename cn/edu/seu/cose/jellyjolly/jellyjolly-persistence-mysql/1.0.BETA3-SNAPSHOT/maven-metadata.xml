@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.edu.seu.cose.jellyjolly</groupId>
+  <artifactId>jellyjolly-persistence-mysql</artifactId>
+  <version>1.0.BETA3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130125.084526</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130125084526</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.BETA3-20130125.084526-1</value>
+        <updated>20130125084526</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.BETA3-20130125.084526-1</value>
+        <updated>20130125084526</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
